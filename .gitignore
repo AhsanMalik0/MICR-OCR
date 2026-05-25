@@ -1,5 +1,11 @@
-/checkpoints
-/train_tiff
-/Prediction
-/mlruns
-/weights
+*.lstmf
+*.tif
+*.box
+*.gt.txt
+*.jpg
+MLflow
+mlruns
+mlruns
+checkpoints/
+Prediction/
+train_tiff/

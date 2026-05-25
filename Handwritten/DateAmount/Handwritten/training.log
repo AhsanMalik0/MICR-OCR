@@ -1,0 +1,577 @@
+Loaded file /content/DateAmountData/eng/Handwritten.lstm, unpacking...
+Warning: LSTMTrainer deserialized an LSTMRecognizer!
+Code range changed from 111 to 111!
+Num (Extended) outputs,weights in Series:
+  1,36,0,1:1, 0
+Num (Extended) outputs,weights in Series:
+  C3,3:9, 0
+  Ft16:16, 160
+Total weights = 160
+  [C3,3Ft16]:16, 160
+  Mp3,3:16, 0
+  Lfys64:64, 20736
+  Lfx96:96, 61824
+  Lrx96:96, 74112
+  Lfx512:512, 1247232
+  Fc111:111, 56943
+Total weights = 1461007
+Previous null char=110 mapped to 110
+Continuing from /content/DateAmountData/eng/Handwritten.lstm
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163613_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163940_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_153436_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_165341_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170456_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_144542_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250428_122439_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250501_130323_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_201727_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250623_110005_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_150931_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_153334_date_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163305_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250605_165048_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170923_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250429_184849_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_152438_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250501_130444_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250426_000035_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250429_184500_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_145428_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_153643_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_153501_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_160319_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_233127_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250605_164855_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_154436_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250428_112547_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_144204_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_154507_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_161531_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250603_181048_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_171748_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_161739_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_154145_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_170804_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_171356_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_171544_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_160122_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_144810_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_152016_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164420_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_154216_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163117_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_160007_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_154321_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164406_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_165126_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_162913_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170328_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_165457_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_145344_date_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250428_124451_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163038_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250429_182425_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_210101_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163955_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_171556_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_160242_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250716_111225_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250429_180613_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_154548_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250603_181549_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250501_130212_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_154210_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250428_124343_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_151752_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163605_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_162708_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250603_181238_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250623_111152_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_160032_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170929_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170144_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_171500_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_162745_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_153139_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_152550_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164843_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163539_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_155224_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_162714_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_165508_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_153305_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_185121_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250429_180119_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_151737_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250428_115713_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_150429_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_151212_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170123_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250605_165132_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_154800_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164502_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_152743_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_164339_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164611_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250623_105946_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_211143_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_155444_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170757_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_152342_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_150253_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_153615_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_152350_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_161746_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_165044_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170852_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_234956_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250426_000105_amount_1.lstmf
+2 Percent improvement time=97, best error was 100 @ 0
+At iteration 97/100/100, Mean rms=3.805%, delta=20.478%, char train=86.759%, word train=88.333%, skip ratio=0%,  New best char error = 86.759 wrote checkpoint.
+
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164350_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_155211_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250603_181441_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_154540_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_210707_date_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_164332_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250603_181209_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_152204_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164602_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250605_165207_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250623_105852_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250429_182747_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_235747_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_152753_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_170851_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_155538_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250605_164952_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_152142_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_144745_date_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_153302_date_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_151722_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170545_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250603_181220_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_153625_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250623_105905_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164615_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_171517_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_151735_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_151825_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_160248_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_235928_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_153558_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250623_110034_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_151940_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_144852_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_154344_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250605_164815_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170055_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_153652_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250605_164919_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_160104_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_171432_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250426_000434_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_155205_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170821_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_145218_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_150440_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_161624_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_155659_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250623_105948_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_154624_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_162904_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164533_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_232635_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_184230_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_151250_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_151749_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250428_124749_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163217_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_144555_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_170722_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170219_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_160210_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_171422_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250623_110020_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_154732_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164520_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164605_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250603_181224_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163326_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170554_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250605_164906_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_185526_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_154456_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_152826_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250603_181733_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163332_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250426_000526_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250603_181547_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250428_124257_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250429_184146_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_144241_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_150854_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250605_164908_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_162941_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_201824_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_183937_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170829_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250428_110943_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250605_164751_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_232649_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_154605_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_235902_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_162753_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_152007_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250428_112944_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250623_105929_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_175659_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_160142_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250501_130231_date_1.lstmf
+2 Percent improvement time=91, best error was 86.759 @ 97
+At iteration 188/200/200, Mean rms=3.604%, delta=17.945%, char train=78.836%, word train=86.25%, skip ratio=0%,  New best char error = 78.836 wrote checkpoint.
+
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_171002_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_144619_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250603_181518_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_155314_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_170836_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_185833_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170047_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_154404_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_161522_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_152718_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_151121_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_153556_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250429_182600_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_165300_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250605_165035_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250428_122432_date_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_151926_date_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_210131_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_165023_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_165351_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_154504_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170751_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_210654_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250623_105916_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250428_124738_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250605_165206_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_234254_date_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_154522_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164341_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_154425_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_152843_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250605_164933_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250428_123842_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250501_130334_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_175108_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_153423_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_185823_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_233140_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_152606_date_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_171530_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_201519_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_162019_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_170704_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_152217_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163531_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_151029_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_153907_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_152819_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250605_164857_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_145755_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250623_105919_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_150443_date_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250429_182252_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_154227_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_152040_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_152125_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_145003_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250605_164954_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_155455_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170337_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_160020_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_171601_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_152102_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_171448_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_144518_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164354_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_151959_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_150456_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250623_105822_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_152356_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_173059_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_150030_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_160122_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170859_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_145844_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250426_000129_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250603_181051_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_154632_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164410_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_162830_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_202916_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170151_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_161600_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_153722_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_152431_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_162935_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_151853_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_150122_date_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_173452_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250428_112726_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_171531_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_152236_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250426_000048_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_173050_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_155955_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_171438_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_152907_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_154307_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_160203_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164623_amount_2.lstmf
+2 Percent improvement time=89, best error was 78.836 @ 188
+At iteration 277/300/300, Mean rms=3.476%, delta=16.504%, char train=74.528%, word train=84.333%, skip ratio=0%,  New best char error = 74.528 wrote checkpoint.
+
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250603_181211_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_145343_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_210031_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_152321_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164336_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_155048_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163145_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250429_184052_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_235801_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_152626_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_155012_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163043_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250501_130147_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163258_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163719_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_170802_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250623_110003_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_151905_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_165202_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_152728_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_175701_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_173136_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250623_110017_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_235913_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_153713_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250428_113029_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_155646_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164846_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164513_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170521_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250603_181739_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250605_164753_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_235410_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_153225_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163152_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250623_110032_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_155129_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250605_164724_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170657_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_151546_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_154759_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_185445_date_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170422_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163729_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_151007_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_210516_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_205754_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_171547_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250428_124027_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170719_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_150017_date_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163008_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_151718_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163827_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_172422_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250428_123853_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163900_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170429_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164628_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250605_164830_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170727_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250605_165150_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_152400_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_151814_date_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163001_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170956_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250429_184136_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_150111_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_154158_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_175719_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_155111_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_232618_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_185134_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163108_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_150301_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_170450_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250603_181139_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250603_181002_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163916_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_160016_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_151548_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_171540_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_151950_amount_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_170849_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_171757_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_170651_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164554_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_160311_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250424_145708_date_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250430_145705_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250603_181520_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163813_amount_2.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_165052_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_155509_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_171502_amount_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_163224_date_4.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250428_125149_amount_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_162836_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250425_185618_date_1.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250616_164423_date_4.lstmf
+2 Percent improvement time=86, best error was 74.528 @ 277
+At iteration 363/400/400, Mean rms=3.366%, delta=15.479%, char train=69.603%, word train=81.625%, skip ratio=0%,  New best char error = 69.603 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten69.603_363.checkpoint wrote checkpoint.
+
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250722_161646_date_3.lstmf
+Loaded 1/1 lines (1-1) of document /content/DateAmountData/20250429_185024_date_1.lstmf
+2 Percent improvement time=76, best error was 69.603 @ 363
+At iteration 439/500/500, Mean rms=3.218%, delta=14.448%, char train=65.718%, word train=78.667%, skip ratio=0%,  New best char error = 65.718 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten65.718_439.checkpoint wrote checkpoint.
+
+2 Percent improvement time=71, best error was 65.718 @ 439
+At iteration 510/600/600, Mean rms=3.1%, delta=13.63%, char train=62.16%, word train=76.25%, skip ratio=0%,  New best char error = 62.16 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten62.16_510.checkpoint wrote checkpoint.
+
+2 Percent improvement time=74, best error was 62.16 @ 510
+At iteration 584/700/700, Mean rms=3.021%, delta=13.156%, char train=59.521%, word train=75.143%, skip ratio=0%,  New best char error = 59.521 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten59.521_584.checkpoint wrote checkpoint.
+
+2 Percent improvement time=75, best error was 59.521 @ 584
+At iteration 659/800/800, Mean rms=2.951%, delta=12.701%, char train=57.413%, word train=73.813%, skip ratio=0%,  New best char error = 57.413 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten57.413_659.checkpoint wrote checkpoint.
+
+2 Percent improvement time=60, best error was 57.413 @ 659
+At iteration 719/900/900, Mean rms=2.844%, delta=12.113%, char train=54.406%, word train=71.241%, skip ratio=0%,  New best char error = 54.406 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten54.406_719.checkpoint wrote checkpoint.
+
+2 Percent improvement time=62, best error was 54.406 @ 719
+At iteration 781/1000/1000, Mean rms=2.763%, delta=11.538%, char train=51.957%, word train=69.983%, skip ratio=0%,  New best char error = 51.957 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten51.957_781.checkpoint wrote checkpoint.
+
+2 Percent improvement time=60, best error was 51.957 @ 781
+At iteration 841/1100/1100, Mean rms=2.587%, delta=10.207%, char train=45.884%, word train=66.55%, skip ratio=0%,  New best char error = 45.884 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten45.884_841.checkpoint wrote checkpoint.
+
+2 Percent improvement time=53, best error was 45.884 @ 841
+At iteration 894/1200/1200, Mean rms=2.434%, delta=9.268%, char train=41.556%, word train=62.983%, skip ratio=0%,  New best char error = 41.556 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten41.556_894.checkpoint wrote checkpoint.
+
+2 Percent improvement time=40, best error was 41.556 @ 894
+At iteration 934/1300/1300, Mean rms=2.258%, delta=8.3%, char train=36.483%, word train=58.35%, skip ratio=0%,  New best char error = 36.483 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten36.483_934.checkpoint wrote checkpoint.
+
+2 Percent improvement time=52, best error was 36.483 @ 934
+At iteration 986/1400/1400, Mean rms=2.12%, delta=7.5%, char train=32.883%, word train=55.617%, skip ratio=0%,  New best char error = 32.883 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten32.883_986.checkpoint wrote checkpoint.
+
+2 Percent improvement time=52, best error was 32.883 @ 986
+At iteration 1038/1500/1500, Mean rms=2.016%, delta=6.889%, char train=29.568%, word train=54.1%, skip ratio=0%,  New best char error = 29.568 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten29.568_1038.checkpoint wrote checkpoint.
+
+2 Percent improvement time=35, best error was 29.568 @ 1038
+At iteration 1073/1600/1600, Mean rms=1.916%, delta=6.366%, char train=26.921%, word train=51.083%, skip ratio=0%,  New best char error = 26.921 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten26.921_1073.checkpoint wrote checkpoint.
+
+2 Percent improvement time=29, best error was 26.921 @ 1073
+At iteration 1102/1700/1700, Mean rms=1.785%, delta=5.591%, char train=23.926%, word train=46.833%, skip ratio=0%,  New best char error = 23.926 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten23.926_1102.checkpoint wrote checkpoint.
+
+2 Percent improvement time=35, best error was 23.926 @ 1102
+At iteration 1137/1800/1800, Mean rms=1.67%, delta=4.938%, char train=20.925%, word train=43.7%, skip ratio=0%,  New best char error = 20.925 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten20.925_1137.checkpoint wrote checkpoint.
+
+2 Percent improvement time=80, best error was 23.926 @ 1102
+At iteration 1182/1900/1900, Mean rms=1.605%, delta=4.512%, char train=19.27%, word train=43.033%, skip ratio=0%,  New best char error = 19.27 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten19.27_1182.checkpoint wrote checkpoint.
+
+2 Percent improvement time=80, best error was 20.925 @ 1137
+At iteration 1217/2000/2000, Mean rms=1.532%, delta=4.181%, char train=17.896%, word train=40.533%, skip ratio=0%,  New best char error = 17.896 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten17.896_1217.checkpoint wrote checkpoint.
+
+2 Percent improvement time=63, best error was 19.27 @ 1182
+At iteration 1245/2100/2100, Mean rms=1.428%, delta=3.642%, char train=16.287%, word train=37.4%, skip ratio=0%,  New best char error = 16.287 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten16.287_1245.checkpoint wrote checkpoint.
+
+2 Percent improvement time=61, best error was 17.896 @ 1217
+At iteration 1278/2200/2200, Mean rms=1.353%, delta=3.272%, char train=14.631%, word train=35.583%, skip ratio=0%,  New best char error = 14.631 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten14.631_1278.checkpoint wrote checkpoint.
+
+2 Percent improvement time=57, best error was 16.287 @ 1245
+At iteration 1302/2300/2300, Mean rms=1.309%, delta=3.018%, char train=13.791%, word train=34.767%, skip ratio=0%,  New best char error = 13.791 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten13.791_1302.checkpoint wrote checkpoint.
+
+2 Percent improvement time=87, best error was 16.287 @ 1245
+At iteration 1332/2400/2400, Mean rms=1.257%, delta=2.804%, char train=13.105%, word train=33.35%, skip ratio=0%,  New best char error = 13.105 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten13.105_1332.checkpoint wrote checkpoint.
+
+2 Percent improvement time=76, best error was 14.631 @ 1278
+At iteration 1354/2500/2500, Mean rms=1.197%, delta=2.56%, char train=12.257%, word train=30.333%, skip ratio=0%,  New best char error = 12.257 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten12.257_1354.checkpoint wrote checkpoint.
+
+2 Percent improvement time=80, best error was 13.791 @ 1302
+At iteration 1382/2600/2600, Mean rms=1.137%, delta=2.266%, char train=11.146%, word train=29.35%, skip ratio=0%,  New best char error = 11.146 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten11.146_1382.checkpoint wrote checkpoint.
+
+2 Percent improvement time=75, best error was 13.105 @ 1332
+At iteration 1407/2700/2700, Mean rms=1.108%, delta=2.155%, char train=10.442%, word train=29.3%, skip ratio=0%,  New best char error = 10.442 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten10.442_1407.checkpoint wrote checkpoint.
+
+2 Percent improvement time=77, best error was 12.257 @ 1354
+At iteration 1431/2800/2800, Mean rms=1.073%, delta=2.055%, char train=10.006%, word train=28.483%, skip ratio=0%,  New best char error = 10.006 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten10.006_1431.checkpoint wrote checkpoint.
+
+2 Percent improvement time=96, best error was 12.257 @ 1354
+At iteration 1450/2900/2900, Mean rms=1.019%, delta=1.884%, char train=9.152%, word train=25.733%, skip ratio=0%,  New best char error = 9.152 Transitioned to stage 1 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten9.152_1450.checkpoint wrote checkpoint.
+
+2 Percent improvement time=63, best error was 10.442 @ 1407
+At iteration 1470/3000/3000, Mean rms=0.966%, delta=1.667%, char train=8.077%, word train=24.533%, skip ratio=0%,  New best char error = 8.077 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten8.077_1470.checkpoint wrote checkpoint.
+
+2 Percent improvement time=63, best error was 10.006 @ 1431
+At iteration 1494/3100/3100, Mean rms=0.962%, delta=1.655%, char train=7.739%, word train=24.767%, skip ratio=0%,  New best char error = 7.739 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten7.739_1494.checkpoint wrote checkpoint.
+
+2 Percent improvement time=87, best error was 10.006 @ 1431
+At iteration 1518/3200/3200, Mean rms=0.936%, delta=1.555%, char train=7.439%, word train=24.033%, skip ratio=0%,  New best char error = 7.439 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten7.439_1518.checkpoint wrote checkpoint.
+
+2 Percent improvement time=103, best error was 10.006 @ 1431
+At iteration 1534/3300/3300, Mean rms=0.911%, delta=1.54%, char train=7.268%, word train=23.033%, skip ratio=0%,  New best char error = 7.268 wrote checkpoint.
+
+2 Percent improvement time=103, best error was 9.152 @ 1450
+At iteration 1553/3400/3400, Mean rms=0.875%, delta=1.415%, char train=6.595%, word train=21.933%, skip ratio=0%,  New best char error = 6.595 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten6.595_1553.checkpoint wrote checkpoint.
+
+2 Percent improvement time=122, best error was 9.152 @ 1450
+At iteration 1572/3500/3500, Mean rms=0.856%, delta=1.362%, char train=6.231%, word train=21.783%, skip ratio=0%,  New best char error = 6.231 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten6.231_1572.checkpoint wrote checkpoint.
+
+At iteration 1600/3600/3600, Mean rms=0.858%, delta=1.404%, char train=6.349%, word train=22.167%, skip ratio=0%,  New worst char error = 6.349 wrote checkpoint.
+
+2 Percent improvement time=165, best error was 9.152 @ 1450
+At iteration 1615/3700/3700, Mean rms=0.832%, delta=1.355%, char train=6.103%, word train=21.167%, skip ratio=0%,  New best char error = 6.103 wrote checkpoint.
+
+2 Percent improvement time=133, best error was 7.739 @ 1494
+At iteration 1627/3800/3800, Mean rms=0.802%, delta=1.228%, char train=5.659%, word train=20.067%, skip ratio=0%,  New best char error = 5.659 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten5.659_1627.checkpoint wrote checkpoint.
+
+2 Percent improvement time=158, best error was 7.739 @ 1494
+At iteration 1652/3900/3900, Mean rms=0.8%, delta=1.209%, char train=5.616%, word train=20.567%, skip ratio=0%,  New best char error = 5.616 wrote checkpoint.
+
+At iteration 1670/4000/4000, Mean rms=0.805%, delta=1.21%, char train=5.672%, word train=20.9%, skip ratio=0%,  New worst char error = 5.672 wrote checkpoint.
+
+2 Percent improvement time=189, best error was 7.739 @ 1494
+At iteration 1683/4100/4100, Mean rms=0.777%, delta=1.144%, char train=5.457%, word train=19.65%, skip ratio=0%,  New best char error = 5.457 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten5.457_1683.checkpoint wrote checkpoint.
+
+2 Percent improvement time=164, best error was 7.268 @ 1534
+At iteration 1698/4200/4200, Mean rms=0.752%, delta=1.083%, char train=5.069%, word train=18.383%, skip ratio=0%,  New best char error = 5.069 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten5.069_1698.checkpoint wrote checkpoint.
+
+2 Percent improvement time=178, best error was 7.268 @ 1534
+At iteration 1712/4300/4300, Mean rms=0.748%, delta=1.051%, char train=4.944%, word train=18.383%, skip ratio=0%,  New best char error = 4.944 wrote checkpoint.
+
+2 Percent improvement time=197, best error was 7.268 @ 1534
+At iteration 1731/4400/4400, Mean rms=0.742%, delta=1.046%, char train=4.84%, word train=18.033%, skip ratio=0%,  New best char error = 4.84 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten4.84_1731.checkpoint wrote checkpoint.
+
+At iteration 1746/4500/4500, Mean rms=0.729%, delta=1.02%, char train=4.89%, word train=17.533%, skip ratio=0%,  New worst char error = 4.89 wrote checkpoint.
+
+2 Percent improvement time=208, best error was 6.595 @ 1553
+At iteration 1761/4600/4600, Mean rms=0.697%, delta=0.906%, char train=4.388%, word train=15.8%, skip ratio=0%,  New best char error = 4.388 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten4.388_1761.checkpoint wrote checkpoint.
+
+2 Percent improvement time=202, best error was 6.231 @ 1572
+At iteration 1774/4700/4700, Mean rms=0.691%, delta=0.876%, char train=4.188%, word train=15.333%, skip ratio=0%,  New best char error = 4.188 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten4.188_1774.checkpoint wrote checkpoint.
+
+At iteration 1791/4800/4800, Mean rms=0.693%, delta=0.904%, char train=4.212%, word train=15.683%, skip ratio=0%,  New worst char error = 4.212 wrote checkpoint.
+
+At iteration 1810/4900/4900, Mean rms=0.683%, delta=0.876%, char train=4.273%, word train=15.483%, skip ratio=0%,  New worst char error = 4.273 wrote checkpoint.
+
+2 Percent improvement time=205, best error was 6.103 @ 1615
+At iteration 1820/5000/5000, Mean rms=0.66%, delta=0.84%, char train=4.029%, word train=13.933%, skip ratio=0%,  New best char error = 4.029 wrote best model:/content/DateAmountData/Handwritten/checkpoints/Handwritten4.029_1820.checkpoint wrote checkpoint.
+
+Finished! Error rate = 4.029
