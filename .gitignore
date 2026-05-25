@@ -9,3 +9,5 @@ mlruns
 checkpoints/
 Prediction/
 train_tiff/
+models/
+DateAmount/
