@@ -416,7 +416,7 @@ micr-api
 
 # Recommended Production Stack
 
-- Flask
+- FastAPI
 - Gunicorn
 - Nginx
 - Docker
@@ -428,7 +428,6 @@ micr-api
 
 # Future Improvements
 
-- FastAPI migration
 - Async inference
 - GPU serving
 - Batch processing
